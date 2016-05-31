@@ -1,15 +1,15 @@
 layout_spectrum: 0.595383730949834
 typography_spectrum: 0.48567149322479963
 color:
-  brandStrength: 0.4113254912663251
-  lightness: 0.15961814136244357
-  saturation: 0.8261801179032773
-  rhythmicContrast: 0.9228107233066112
+  brandStrength: 0.1396741063799709
+  lightness: 0.1690488748718053
+  saturation: 0.7731069796718657
+  rhythmicContrast: 0.07207742403261364
   brandColors:
     - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: mentiras sagradas
 title: The Work of G.Romero
